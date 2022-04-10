@@ -21,4 +21,4 @@
 
 ## Author
 
-    [Milind Kumar Mishra](https://milind.live)
+    Milind Kumar Mishra
