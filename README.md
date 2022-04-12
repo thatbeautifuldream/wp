@@ -17,6 +17,10 @@
 
 - Use of the `https://wa.me/<number>?text=<message format>`
 
+## Demo Gif
+
+![wp](https://user-images.githubusercontent.com/28717686/162949869-aabe82d1-af5c-424b-93b6-3d265eb6d786.gif)
+
 ## License
 
     MIT
